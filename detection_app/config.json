@@ -1,0 +1,8 @@
+{
+  "model_path": "runs/detect/runs/train/yolo11_visdrone/weights/best.pt",
+  "metrics_dir": "runs/detect/runs/train/yolo11_visdrone",
+  "conf_threshold": 0.25,
+  "iou_threshold": 0.7,
+  "max_det": 300,
+  "last_user": "杨大海8848"
+}

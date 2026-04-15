@@ -1,0 +1,252 @@
+{
+  "records": [
+    {
+      "id": "FCCD1EFD",
+      "timestamp": "2026-03-08T20:32:52.635541",
+      "username": "admin",
+      "type": "image",
+      "source": "dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000000_00098_d_0000001.jpg",
+      "model": "best.pt",
+      "model_path": "runs/detect/runs/train/yolo11_visdrone/weights/best.pt",
+      "total_detections": 58,
+      "class_counts": {
+        "小汽车": 10,
+        "行人": 46,
+        "面包车": 1,
+        "人群": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "62E6669C",
+      "timestamp": "2026-03-08T20:26:03.456571",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/c124（基于 YOLOv11 的无人机小目标检测系统-深蓝系列）/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000000_02021_d_0000005.jpg",
+      "model": "best.pt",
+      "model_path": "G:/code/c124（基于 YOLOv11 的无人机小目标检测系统-深蓝系列）/runs/detect/runs/train/yolo11_visdrone/weights/best.pt",
+      "total_detections": 202,
+      "class_counts": {
+        "小汽车": 124,
+        "面包车": 4,
+        "行人": 63,
+        "自行车": 8,
+        "卡车": 1,
+        "摩托车": 2
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "3C2F2CE9",
+      "timestamp": "2026-02-20T22:47:54.654076",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000119_02790_d_0000085.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 64,
+      "class_counts": {
+        "小汽车": 52,
+        "面包车": 5,
+        "行人": 5,
+        "人群": 1,
+        "自行车": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "BE715433",
+      "timestamp": "2026-02-20T22:47:45.275929",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000000_00098_d_0000001.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 58,
+      "class_counts": {
+        "小汽车": 10,
+        "行人": 46,
+        "面包车": 1,
+        "人群": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "A30C4228",
+      "timestamp": "2026-02-20T22:45:50.747256",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000168_01963_d_0000171.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 40,
+      "class_counts": {
+        "小汽车": 14,
+        "人群": 7,
+        "三轮车": 3,
+        "行人": 6,
+        "面包车": 2,
+        "摩托车": 7,
+        "自行车": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "5FBF32F1",
+      "timestamp": "2026-02-20T22:33:08.093847",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000168_01963_d_0000171.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 40,
+      "class_counts": {
+        "小汽车": 14,
+        "人群": 7,
+        "三轮车": 3,
+        "行人": 6,
+        "面包车": 2,
+        "摩托车": 7,
+        "自行车": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "72334ABE",
+      "timestamp": "2026-02-20T22:32:58.930358",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000119_05276_d_0000090.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 1,
+      "class_counts": {
+        "行人": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "C27C2E98",
+      "timestamp": "2026-02-20T22:32:53.235923",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000088_00460_d_0000002.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 99,
+      "class_counts": {
+        "行人": 78,
+        "人群": 20,
+        "摩托车": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "9A7F4E70",
+      "timestamp": "2026-02-20T22:32:46.988979",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000067_01050_d_0000002.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 146,
+      "class_counts": {
+        "行人": 127,
+        "人群": 18,
+        "摩托车": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "A22A0D62",
+      "timestamp": "2026-02-20T22:32:38.993769",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000025_02087_d_0000003.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 137,
+      "class_counts": {
+        "小汽车": 9,
+        "面包车": 1,
+        "行人": 30,
+        "摩托车": 74,
+        "带篷三轮车": 4,
+        "自行车": 12,
+        "人群": 6,
+        "三轮车": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "45A6928D",
+      "timestamp": "2026-02-20T21:58:18.790836",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000009_00009_d_0000001.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 88,
+      "class_counts": {
+        "小汽车": 65,
+        "面包车": 3,
+        "行人": 19,
+        "公交车": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    },
+    {
+      "id": "79AD45C8",
+      "timestamp": "2026-02-20T21:46:30.849344",
+      "username": "admin",
+      "type": "image",
+      "source": "G:/code/客户/c124（基于深度学习的无人机航拍小目标检测算法研究）/c124/dataset_visdrone/VisDrone2019-DET-test-challenge/images/0000000_00098_d_0000001.jpg",
+      "model": "best.pt",
+      "model_path": "G:\\code\\客户\\c124（基于深度学习的无人机航拍小目标检测算法研究）\\c124\\训练文件1\\exp-yolo11s-EMBSFPN-TADDH-C3K2_PMSFA\\weights\\best.pt",
+      "total_detections": 58,
+      "class_counts": {
+        "小汽车": 10,
+        "行人": 46,
+        "面包车": 1,
+        "人群": 1
+      },
+      "result_image_path": "",
+      "result_csv_path": "",
+      "conf_threshold": 0.25,
+      "notes": ""
+    }
+  ]
+}
